@@ -39,15 +39,15 @@ We will be using logistic regression to predict the Loan_Status based on the oth
 
 #Steps
 
-Data Cleaning and Preprocessing: We will clean and preprocess the data to make it suitable for modeling. This includes dealing with missing values, encoding categorical variables, and scaling numerical variables.
+1.Data Cleaning and Preprocessing: We will clean and preprocess the data to make it suitable for modeling. This includes dealing with missing values, encoding categorical variables, and scaling numerical variables.
 
-Exploratory Data Analysis: We will explore the data to gain insights into the relationships between the input variables and the target variable.
+2.Exploratory Data Analysis: We will explore the data to gain insights into the relationships between the input variables and the target variable.
 
-Feature Selection: We will select the most important features to include in the model based on their correlation with the target variable.
+3.Feature Selection: We will select the most important features to include in the model based on their correlation with the target variable.
 
-Model Building: We will train the logistic regression model on the cleaned and preprocessed data.
+4.Model Building: We will train the logistic regression model on the cleaned and preprocessed data.
 
-Model Evaluation: We will evaluate the performance of the model using various metrics such as accuracy, precision, recall, and F1-score.
+5.Model Evaluation: We will evaluate the performance of the model using various metrics such as accuracy, precision, recall, and F1-score.
 
 #Dependencies
 
