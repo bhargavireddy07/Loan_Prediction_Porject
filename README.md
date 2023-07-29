@@ -5,8 +5,11 @@ This project is a machine learning model that predicts whether a loan applicatio
 
 #Dataset
 The dataset used in this project is the Loan Prediction Dataset from Kaggle. It contains 614 observations and 13 variables. The variables include:
+
 Loan_ID: Unique Loan ID
+
 Gender: Male/Female
+
 Married: Applicant married (Y/N)
 Dependents: Number of dependents
 Education: Applicant Education (Graduate/Under Graduate)
