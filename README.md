@@ -33,7 +33,7 @@ Property_Area: Urban/Semi-Urban/Rural
 
 Loan_Status: Loan approved (Y/N)
 
-#Model
+#Modelssssss
 
 We will be using logistic regression to predict the Loan_Status based on the other variables in the dataset. Logistic regression is a classification algorithm that works by fitting a logistic curve to the data, which allows us to estimate the probability of a loan being approved based on the input variables.
 
